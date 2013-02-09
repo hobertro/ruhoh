@@ -1,16 +1,15 @@
-title : Blog Title
-tagline: Blog Tagline
+title : DIZZICKED
+tagline: dizzicked 
 author :
-  name : Firstname Lastname
+  name : Robert Ho
   email : blah@email.test
   github : username
   twitter : username
   feedburner : feedname
 
 navigation :
+  - about.md
   - archive.html
   - tags.html
   - categories.html
   - pages.html
-  - about.md
-  
